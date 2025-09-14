@@ -35,8 +35,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-lg sm:text-xl md:text-2xl mb-6 md:mb-8 opacity-90 max-w-3xl mx-auto px-4 fade-in-up animate-delay-300">
-            Cuidando da sua saúde desde 2007 com excelência em fisioterapia, 
-            acupuntura e massagens terapêuticas
+            Cuidando da sua saúde desde 2008 com excelência em fisioterapia e acupuntura
           </p>
           
           <div className="flex flex-col sm:flex-row gap-3 md:gap-4 justify-center mb-8 md:mb-12 px-4 fade-in-up animate-delay-400">

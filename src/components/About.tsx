@@ -34,12 +34,12 @@ const About = () => {
                   <div className="text-center">
                     <Badge variant="secondary" className="bg-healing/10 text-healing border-healing/20 text-base px-4 py-2">
                       <Calendar className="w-4 h-4 mr-2" />
-                      Desde 2007
+                      Desde 2008
                     </Badge>
                   </div>
                   
                   <p className="text-muted-foreground leading-relaxed">
-                    Profissional dedicada com vasta experiência em fisioterapia, acupuntura e massagens terapêuticas. 
+                    Profissional dedicada com vasta experiência em fisioterapia e acupuntura. 
                     Comprometida em oferecer o melhor cuidado para seus pacientes através de técnicas modernas e tradicionais.
                   </p>
                 </CardContent>

@@ -12,8 +12,7 @@ const Footer = () => {
           <div className="md:col-span-2 space-y-4">
             <h3 className="text-2xl font-bold">Consultório Arakaki</h3>
             <p className="text-primary-foreground/80 leading-relaxed">
-              Cuidando da sua saúde desde 2007 com excelência em fisioterapia, 
-              acupuntura e massagens terapêuticas.
+              Cuidando da sua saúde desde 2008 com excelência em fisioterapia e acupuntura.
             </p>
             <div className="text-lg">
               <p className="font-medium">「健康は最大の財産」</p>
