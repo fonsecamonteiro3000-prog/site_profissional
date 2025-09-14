@@ -80,7 +80,7 @@ const Footer = () => {
               © 2025 Consultório Arakaki. Todos os direitos reservados.
             </p>
             <p className="text-sm text-primary-foreground/70 flex items-center mt-2 md:mt-0">
-              Feito com <Heart className="h-4 w-4 mx-1 text-success" /> para sua saúde
+              Feito com <Heart className="h-4 w-4 mx-1 text-success" /> para sua saúde e bem-estar
             </p>
           </div>
         </div>
